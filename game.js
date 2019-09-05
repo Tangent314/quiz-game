@@ -51,7 +51,7 @@ const myQuestions = [
         question: "Who is the strongest?",
         answers: {
             a: "Superman",
-            b: "The Terminator";
+            b: "The Terminator",
             c: "Waluigi, duh"
         },
         correctAnswer: "c"
